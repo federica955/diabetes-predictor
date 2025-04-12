@@ -21,8 +21,8 @@ Web app built with [Streamlit](https://streamlit.io/) and Machine Learning to pr
 - streamlit
 
 ## Screenshot
+![App Screenshot](screenshot.png)
 
-![App Screenshot](link_screenshot_o_gif)
 
 ## How to run locally
 
