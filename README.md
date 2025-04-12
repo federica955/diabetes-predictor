@@ -21,7 +21,7 @@ Web app built with [Streamlit](https://streamlit.io/) and Machine Learning to pr
 - streamlit
 
 ## Screenshot
-![App Screenshot](diabetes_app.png)
+![App Screenshot](screenshot2025-04-12122248.png)
 
 
 ## How to run locally
