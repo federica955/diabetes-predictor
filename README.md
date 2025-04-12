@@ -29,3 +29,4 @@ Web app built with [Streamlit](https://streamlit.io/) and Machine Learning to pr
 ```bash
 pip install -r requirements.txt
 streamlit run diabetes.py 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://federica955-diabetes-predictor.streamlit.app)
