@@ -23,7 +23,7 @@ Web app built with [Streamlit](https://streamlit.io/) and Machine Learning to pr
 ## Screenshot
 ![App Screenshot](diabetes_app.png)
 
-
+![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat&logo=appveyor) by Federica
 ## How to run locally
 
 ```bash
